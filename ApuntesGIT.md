@@ -1,3 +1,5 @@
+APUNTES
+
 Vale ya hemos estado jugando con ello desde VS code y hemos visto un problema de usar solo los comandos que trae en vez de la terminal. Cuando hemos eliminado una rama desde el repositorio el git local no dejaba de apuntar allí y ese no la borra. Hemos descubierto dos términos nuevos "push" que es para mandarlo al github y para traerte lo del repositorio github usas "pull". El "fetch" que es traerte lo que tengas del github pero todo el repositorio, lo anterior es a nivel de ramas ya sea la main u otras.
 
 	• Hay que controlar el GitHub desde el local a través de la terminal con eso no hay fallos vamos a hacer una recopilación de los comandos más importantes. 
